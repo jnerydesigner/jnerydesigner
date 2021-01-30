@@ -3,9 +3,12 @@
 # Welcome to my Github
 
 <div>
-<a href="youtube.com"><img src="https://github.com/jnerydesigner/jnerydesigner/blob/main/youtube-01.svg" width="50">
+<a href="https://studio.youtube.com/channel/UCr5fGhSnZV7eqfDYcV09XOQ" target="_blank"><img src="https://github.com/jnerydesigner/jnerydesigner/blob/main/youtube.svg" width="50"></a>  
+<a href="https://www.linkedin.com/in/jander-nery" target="_blank"><img src="https://github.com/jnerydesigner/jnerydesigner/blob/main/linkedin.svg" width="50">
 </a>
-<a href="youtube.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50">
+  <a href="https://twitter.com/JNeryDesigner" target="_blank"><img src="https://github.com/jnerydesigner/jnerydesigner/blob/main/twitter.svg" width="50">
+</a>
+  <a href="https://www.facebook.com/jander.nery" target="_blank"><img src="https://github.com/jnerydesigner/jnerydesigner/blob/main/facebook.svg" width="50">
 </a>
 </div>
 <!--
