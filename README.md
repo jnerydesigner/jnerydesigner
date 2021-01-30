@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 # Welcome to my Github
+
+<div>
+<a href="youtube.com"><img src="https://github.com/jnerydesigner/jnerydesigner/blob/main/youtube-01.svg" width="50">
+</a>
+<a href="youtube.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50">
+</a>
+</div>
 <!--
 **jnerydesigner/jnerydesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
