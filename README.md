@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Apaixonado por tecnologia, educação e programação.
+![Snake animation](https://github.com/jnerydesigner/jnerydesigner/blob/output/github-contribution-grid-snake.svg)
