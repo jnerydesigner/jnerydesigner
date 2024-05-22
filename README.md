@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&random=false&width=435&lines=%3C+Welcome+%2F%3E;%3C+My+name+is+Jander+Nery+%2F%3E;%3C+I'm+a+Software+Developer+%2F%3E;%3C+FullStack+%2F%3E)](https://git.io/typing-svg)
+
 # Welcome to my Github
 
 ## My Socials Medias
