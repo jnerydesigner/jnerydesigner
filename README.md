@@ -1,5 +1,5 @@
 
-![banner pessoal](https://raw.githubusercontent.com/jnerydesigner/jnerydesigner/refs/heads/main/cover-linkedin.png)
+![banner pessoal](https://raw.githubusercontent.com/jnerydesigner/jnerydesigner/refs/heads/main/cover-linkedin.svg)
 
 ### Hi there 👋
 
